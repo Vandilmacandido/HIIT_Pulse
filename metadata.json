@@ -1,0 +1,5 @@
+{
+  "name": "HIIT Pulse",
+  "description": "A mobile-first HIIT workout system for Treadmill and Stationary Bike with adaptive difficulty levels.",
+  "requestFramePermissions": []
+}
